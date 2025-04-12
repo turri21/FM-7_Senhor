@@ -1,4 +1,4 @@
-=(FM-7_Senhor notes)=-
+-=(FM-7_Senhor notes)=-
 
 Tested: Working Video 720p, 1080p & Sound
 
